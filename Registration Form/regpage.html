@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+    Registration
+</title>
+<link href="regpage.css" type="text/css" rel="stylesheet">
+<style>
+label{
+    margin-left: 40px;
+}
+input[type=text]{
+    margin: 18px;
+    width:40%;
+    box-sizing: border-box;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid brown;
+    border-radius: 4px;
+}
+input[type=tel]
+{
+    margin: 18px;
+    width:40%;
+    box-sizing: border-box;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid brown;;
+    border-radius: 4px; 
+}
+input[type=email]{
+    margin: 18px;
+    width:40%;
+    box-sizing: border-box;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid brown;
+    border-radius: 4px;
+}
+input[type=password]
+{
+    margin: 18px;
+    width:40%;
+    box-sizing: border-box;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid brown;
+    border-radius: 4px;
+}
+input[type=date]
+{   margin: 18px;
+    width:40%;
+    box-sizing: border-box;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid brown;
+    border-radius: 4px;
+}
+
+input[type=submit]
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 14px; 
+    background-color:brown; 
+    color: blanchedalmond ;
+    border-radius: 10px; 
+    padding-left: 11px; 
+    padding-right: 11px; 
+    padding-top: 6px; 
+    padding-bottom: 6px; 
+    margin: 10px;
+    box-shadow: 3px 3px 3px darkslategray;
+}
+input[type=button]
+{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 14px; 
+    background-color:brown; 
+    color: blanchedalmond ;
+    border-radius: 10px; 
+    padding-left: 19px; 
+    padding-right: 19px; 
+    padding-top: 6px; 
+    padding-bottom: 6px; 
+    margin: 10px;
+    box-shadow: 3px 3px 3px darkslategray;
+}
+.hero{
+    height: 25px;
+}
+</style>
+</head>
+<body>
+    <div class="sf">
+    <div class="fc1">
+        <div><h1>You are just one step away</h1></div>
+    </div>
+    <div class="fc2">
+            <form method="GET" action="congrats page.html">
+
+                    <h3><u>Registration</u></h3>
+                        <label for="fname">First Name</label> &ensp;&#160;
+                        <input class="hero" type="text" id="fname" name="fname" required><br>                
+                        <label for="sname"> Last Name</label>&emsp;
+                        <input class="hero" type="text" id="sname" name="sname"><br>
+                        <label for="DOB">Date of Birth</label>&emsp;
+                        <input class="hero" type="date" name="DOB" required><br>
+        
+                        <label for="gender">Gender</label>&emsp;
+                        <input type="radio" name="gender" id="gendermale">Male
+                        <input type="radio" name="gender" id="genderfemale">Female
+                        <input type="radio" name="gender" id="genderothers">Others<br><br>
+
+                        <label>Enter Mobile Phone No.:</label>&emsp;
+                        <input class="hero" type="tel" name="Mobile" required pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="   xxx-xxx-xxxx" onfocus="this.placeholder=''" onblur="this.placeholder='xxx-xxx-xxxx'"><br>
+
+                        <label>Enter your Email-Address</label>&emsp;
+                        <input class="hero" type="email" name="email" required multiple placeholder="  abc@mailme.com" onfocus="this.placeholder=''" onblur="this.placeholder='abc@mailme.com'"><br>
+                        
+                        <label for="password">Enter Password</label>&emsp;
+                        <input class="hero" type="password" id="password" required><br>
+                        <label for="repassword">Re-Enter Password</label>&emsp;
+                        <input class="hero" type="password" id="repassword" required><br>
+
+                        <input type="submit" value="Register">
+                        <a href="regform.html"><input type="button" value="Back"></a>
+                    </form>
+    </div>
+</div>
+
+
+
+
+</body>
+
+</html>

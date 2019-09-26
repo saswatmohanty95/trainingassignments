@@ -1,0 +1,82 @@
+body{
+    background: linear-gradient(to bottom right,#ddff99,#eeffcc);
+    height: 582px;
+    margin: 0%;
+}
+
+.superflex{
+    display: flex;
+    flex-direction: column
+}
+.flex-container{
+      display: flex;
+      height: 60px;
+      background: linear-gradient(to bottom,#b37700,#cc8800); 
+      border-bottom: 1px solid whitesmoke;
+      border-top: 1px solid whitesmoke;
+      padding-left: 20px;
+      padding-bottom: 20px;
+      box-shadow: 2px 2px 2px rgb(15, 15, 100);
+}
+.flex-container2{
+    width: 600px;
+    height: auto;
+    border: 1px solid blanchedalmond;
+    margin-left: 345px;
+    margin-top: 50px;
+    border-radius: 25px;
+    background-color: darksalmon;
+    box-shadow: 2px 2px 2px  rgb(42, 84, 173);
+}
+#button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 23px; 
+    background-color:brown; 
+    color: blanchedalmond ;
+    border-radius: 10px; 
+    padding-left: 11px; 
+    padding-right: 11px; 
+    padding-top: 6px; 
+    padding-bottom: 6px; 
+    margin: 10px;
+    box-shadow: 3px 3px 3px darkslategray;
+}
+#button2{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+     font-size: 23px; 
+     background-color:brown; 
+     color: blanchedalmond ; 
+     border-radius: 10px; 
+     padding: 6px; 
+     margin: 10px;
+     box-shadow: 3px 3px 3px darkslategray;
+}
+#db{
+    padding-left: 860px;
+    padding-top: 10px;
+}
+.flex-container h1{
+    color: wheat;
+    text-shadow: 2px 2px black;
+}
+.flex-container img{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.flex-container2 h2{
+    text-align: center;
+    font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    color: darkslateblue;
+    text-shadow: 1px 1px lightgoldenrodyellow;
+    
+
+}
+.flex-container2 p{
+    padding: 20px;
+    padding-top:0px;
+    color: white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 2px darkslategrey;
+    font-size: 17px
+}
