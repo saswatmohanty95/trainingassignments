@@ -1,0 +1,33 @@
+<form #departmentForm="ngForm" (ngSubmit)="saveDepartment()" class="formmain">
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h3 class="panel-title">Department Registry Form</h3>
+      </div>
+      <div class="panel-body">
+        <div class="form-group">
+          <label for="id">Department Id</label>
+          <input id="id" type="text" class="form-control"
+          name="id" [(ngModel)]="deptmnt.deptid">
+        </div>
+        <div class="form-group">
+          <label for="fullName">Department Name</label>
+          <input id="fullName" type="text" class="form-control"
+                 name="name" [(ngModel)]="deptmnt.name">
+        </div>
+            
+        <div class="form-group">
+          <label for="groupname">Enter Group Name</label>
+          <input id="groupname" type="text" class="form-control"
+                 name="groupname" [(ngModel)]="deptmnt.groupName">
+        </div>
+        <div class="form-group">
+          <label for="modtime">Modification Date</label>
+          <input id="modtime" type="date" class="form-control"
+                 name="modtime" [(ngModel)]="deptmnt.modifiedDate">
+        </div>
+      </div>
+      <div class="panel-footer">
+        <button class="btn btn-primary" style="font-size: 15px" type="submit">Save</button>
+      </div>
+    </div>
+  </form>

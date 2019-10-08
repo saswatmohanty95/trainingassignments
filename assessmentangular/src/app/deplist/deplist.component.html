@@ -1,0 +1,63 @@
+
+<div class="table1">
+    <table class="table table-primary  table-hover">
+        <thead>
+            <th> Department Id</th>
+            <th> Department Name</th>
+            <th> Group Name</th>
+            <th> Modified Date</th>
+            
+        </thead>
+        <tbody>
+        <tr *ngFor="let dl of dplist; let i=index">
+        <td> {{dl.deptid}}</td>
+        <td> {{dl.name}}</td>
+        <td> {{dl.groupName}}</td>
+        <td> {{dl.modifiedDate}}</td>
+        <td><button class="btn btn-primary" id="edit" (click)="edit(i)">Edit</button></td>
+        <td><button class="btn btn-primary" id="delete" (click)="deleteDept(i)">Delete</button></td>
+        </tr>
+    </tbody>
+    </table>
+</div>
+
+
+
+
+
+<div id="updatediv" *ngIf="updatediv">
+
+    <form #updatedepartmentForm="ngForm" (ngSubmit)="edit()">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Update Department Number</h3>
+            </div>
+            <div class="panel-body">
+              <div class="form-group">
+                <label for="id">New Department Id</label>
+                <input id="id" type="text" class="form-control"
+                name="id" [(ngModel)]="deptmnt.deptid">
+              </div>
+              <div class="form-group">
+                <label for="fullName">New Department Name</label>
+                <input id="fullName" type="text" class="form-control"
+                       name="name" [(ngModel)]="deptmnt.name">
+              </div>
+                  
+              <div class="form-group">
+                <label for="groupname">Enter New Group Name</label>
+                <input id="groupname" type="text" class="form-control"
+                       name="groupname" [(ngModel)]="deptmnt.groupName">
+              </div>
+              <div class="form-group">
+                <label for="modtime">Update Modification Date</label>
+                <input id="modtime" type="date" class="form-control"
+                       name="modtime" [(ngModel)]="deptmnt.modifiedDate">
+              </div>
+            </div>
+            <div class="panel-footer">
+              <button class="btn btn-primary" type="submit">Save</button>
+            </div>
+          </div>
+      </form>
+    </div >
