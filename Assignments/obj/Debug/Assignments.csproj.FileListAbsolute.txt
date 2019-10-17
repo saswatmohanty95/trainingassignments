@@ -1,0 +1,6 @@
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\obj\Debug\Assignments.csprojAssemblyReference.cache
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\bin\Debug\Assignments.exe.config
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\bin\Debug\Assignments.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\bin\Debug\Assignments.pdb
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\obj\Debug\Assignments.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\Assignments\Assignments\obj\Debug\Assignments.pdb
