@@ -1,0 +1,5 @@
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\banksystem\banksystem\bin\Debug\banksystem.exe.config
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\banksystem\banksystem\bin\Debug\banksystem.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\banksystem\banksystem\bin\Debug\banksystem.pdb
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\banksystem\banksystem\obj\Debug\banksystem.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\banksystem\banksystem\obj\Debug\banksystem.pdb
