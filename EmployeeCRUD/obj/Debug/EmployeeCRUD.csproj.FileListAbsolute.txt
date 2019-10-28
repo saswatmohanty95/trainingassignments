@@ -1,0 +1,6 @@
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.exe.config
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.exe
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.pdb
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.csprojAssemblyReference.cache
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.exe
+C:\Users\smohanty69\source\repos\CRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.pdb
