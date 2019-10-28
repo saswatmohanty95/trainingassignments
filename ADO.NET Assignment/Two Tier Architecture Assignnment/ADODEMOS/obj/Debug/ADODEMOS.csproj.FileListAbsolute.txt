@@ -1,0 +1,9 @@
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\bin\Debug\ADODEMOS.exe.config
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\bin\Debug\ADODEMOS.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\bin\Debug\ADODEMOS.pdb
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\bin\Debug\EmployeeDAL.dll
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\bin\Debug\EmployeeDAL.pdb
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\obj\Debug\ADODEMOS.csprojAssemblyReference.cache
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\obj\Debug\ADODEMOS.csproj.CopyComplete
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\obj\Debug\ADODEMOS.exe
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\ADODEMOS\obj\Debug\ADODEMOS.pdb

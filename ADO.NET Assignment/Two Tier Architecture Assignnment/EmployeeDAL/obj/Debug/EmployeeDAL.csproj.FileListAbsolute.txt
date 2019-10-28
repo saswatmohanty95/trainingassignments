@@ -1,0 +1,5 @@
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\EmployeeDAL\bin\Debug\EmployeeDAL.dll
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\EmployeeDAL\bin\Debug\EmployeeDAL.pdb
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\EmployeeDAL\obj\Debug\EmployeeDAL.csprojAssemblyReference.cache
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\EmployeeDAL\obj\Debug\EmployeeDAL.dll
+C:\Users\smohanty69\Documents\Training 2019\C# .NET\TwoTierArchitecture\EmployeeDAL\obj\Debug\EmployeeDAL.pdb
