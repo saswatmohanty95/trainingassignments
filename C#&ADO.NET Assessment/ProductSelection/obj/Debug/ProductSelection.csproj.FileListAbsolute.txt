@@ -1,0 +1,6 @@
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\bin\Debug\ProductSelection.exe.config
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\bin\Debug\ProductSelection.exe
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\bin\Debug\ProductSelection.pdb
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\obj\Debug\ProductSelection.csprojAssemblyReference.cache
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\obj\Debug\ProductSelection.exe
+C:\Users\smohanty69\source\repos\ProductSelectionAssessment\ProductSelection\obj\Debug\ProductSelection.pdb
